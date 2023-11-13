@@ -49,7 +49,7 @@
     height: 450px;
 }
 .banner-section-bg-container {
-  background-image: linear-gradient(to top,  rgba(0,0,0,0.75), rgba(255, 255, 255, 0.80)), url("./images/banner-image.png");
+  background-image: linear-gradient(to top,  rgba(0,0,0,0.75), rgba(255, 255, 255, 0.80)), url("./images/banner-image-1.jpg");
   height: 100vh;
   background-size: cover;
 }
@@ -69,7 +69,7 @@
 .banner-heading {
   color: white;
   font-family: "Roboto";
-  font-size: 45px;
+  font-size: 50px;
   font-weight: 300;
   text-align: center;
   padding: 20px;
@@ -78,15 +78,15 @@
 .banner-caption {
   color: #f5f7fa;
   font-family: "Roboto";
-  font-size: 24px;
+  font-size: 25px;
   font-weight: 300;
   text-align: center;
-  padding: 20px;
-  padding-top: 5px;
+  padding-left: 20px;
+  padding-top: 5px 0px 5px 0px;
 }
 
 .custom-button {
-  color: skyblue;
+  color: transparent;
   background-image: linear-gradient(#fdfdfc, #fdfdfc);
   width: 130px;
   height: 45px;
@@ -149,6 +149,8 @@
   font-family: "Roboto";
   font-size: 28px;
   font-weight: 700;
+  text-align: center;
+  padding: 20px;
 }
 
 .wcu-section-description {
@@ -242,8 +244,9 @@
   font-family: "roboto";
 }
 .healthy-food-section {
-  background-color: #ffffff;
+  background-color: white;
 }
+
 .healthy-food-section-img {
   width: 100%;
   height: 500px;
@@ -360,7 +363,7 @@
 }
 
 .footer-logo {
-  width: 55%;
+  width: 65%;
   height: 40%;
   border-radius: 60%;
 }
@@ -385,6 +388,7 @@
   font-size: 20px;
   padding: 2px;
 }
+
 .vr-footer-section-list {
   list-style-type: none;
   padding-left: 0;
