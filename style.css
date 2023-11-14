@@ -171,7 +171,7 @@
 .wcu-card-image {
   width: 280px;
   height: 180px;
-  border-radius: 10px;
+  border-radius: 20px;
 }
 
 .wcu-card-title {
@@ -237,7 +237,7 @@
 }
 .menu-item-card {
   border-radius: 16px;
-  height: 550px;
+  height: 600px;
 }
 .wwd-list {
   font-size: 15px;
